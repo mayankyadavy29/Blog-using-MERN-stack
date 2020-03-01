@@ -34,3 +34,7 @@ Running locally you need 3 terminals open: one for client, one for server, and a
 
 Go to `http://localhost:3000/` to check the live application.
 
+Some screenshots from the website :
+![image](https://user-images.githubusercontent.com/35595041/75632953-fe1c4680-5c26-11ea-88f7-571c65a54df1.png)
+
+
