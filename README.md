@@ -37,4 +37,11 @@ Go to `http://localhost:3000/` to check the live application.
 Some screenshots from the website :
 ![image](https://user-images.githubusercontent.com/35595041/75632953-fe1c4680-5c26-11ea-88f7-571c65a54df1.png)
 
+![image](https://user-images.githubusercontent.com/35595041/75632973-36238980-5c27-11ea-953d-f6dbb3f16397.png)
+
+![image](https://user-images.githubusercontent.com/35595041/75632989-4b001d00-5c27-11ea-8d55-b1a5524c360f.png)
+
+![image](https://user-images.githubusercontent.com/35595041/75633000-5eab8380-5c27-11ea-8158-bec6a7ccbd6d.png)
+
+
 
